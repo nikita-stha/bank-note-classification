@@ -24,7 +24,7 @@ This is a simple data science project for Bank note classification
 
 5. Run `docker-compose up -d --build` to build and run the container
 
-6. Run `docker-compose down` to shut down the container.
+6. Run `docker-compose down --remove-orphans` to shut down the container.
 
 You can access web application on: http://localhost:5000/
 
@@ -36,4 +36,5 @@ You can access web application on: http://localhost:5000/
 
 3. Run `docker-compose -f docker-compose.prod.yml up -d --build` to build and run the container
 
+4. To shut down running container, run `docker-compose down --remove-orphans`
 You can access web application on: http://localhost:1337/
