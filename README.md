@@ -3,7 +3,7 @@ This is a simple data science project for Bank note classification
 
 ## Demo
 
-You can find the live web application [here] (https://replit.com/@nikita-stha/PneumoniaDetector?v=1)
+You can find the live web application [here](https://replit.com/@nikita-stha/PneumoniaDetector?v=1)
 
 [Screencast from 03-26-2023 09:08:55 PM.webm](https://user-images.githubusercontent.com/66687885/227823977-c880abc1-3743-4c0d-a703-35afd9569f7d.webm)
 
